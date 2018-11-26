@@ -1,0 +1,30 @@
+{
+  "name": "samplerestfulaspi_node.js",
+  "version": "1.0.0",
+  "description": "Sample RestfulAPI Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehranhamedani/SampleRestfulAPI_Node.js.git"
+  },
+  "keywords": [
+    "Samle",
+    "Restful",
+    "API",
+    "Node",
+    "Nodejs"
+  ],
+  "author": "Mehran Hamedani Nezhad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehranhamedani/SampleRestfulAPI_Node.js/issues"
+  },
+  "homepage": "https://github.com/mehranhamedani/SampleRestfulAPI_Node.js#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
