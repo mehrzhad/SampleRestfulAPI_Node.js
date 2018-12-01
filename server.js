@@ -31,6 +31,9 @@ app.get('/getCountryByCode/:code', (req, res) =>{
 // post api
 app.post('/createCountry', (req, res) =>{
     let country = req.body;
+    if(country){
+        countries.push(country);
+    }
     res.setHeader('Content-Type', 'application/json');
     res.send(JSON.stringify(country));
 });
