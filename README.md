@@ -2,7 +2,10 @@
 Sample restful api
 
 # Installation
-* Clone the repo by using git clone.
-* Run npm install on the cloned directory.
-* Edit the private/config.js file to suit your needs.
-* Add APIs using the instructions below to suit your needs.
+* Clone
+```git clone https://github.com/mehranhamedani/SampleRestfulAPI_Node.js.git
+* Go to repo directory
+```cd SampleRestfulAPI_Node
+* Run npm install
+```npm install
+* And then run npm start
