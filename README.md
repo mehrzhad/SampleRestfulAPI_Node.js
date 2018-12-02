@@ -17,3 +17,38 @@ Sample restful api
 * And then run npm start
 
     ```npm start```
+
+# Services
+* Get countries
+
+    ```
+    GET: 
+        http://[server-address]:[port-number]/getCountries
+    Sample:
+        http://localhost:5000/getCountries
+    ``````
+    
+* Get country by country code
+
+    ```
+    GET: 
+        http://[server-address]:[port-number]/getCountryByCode/[countryCode]
+    Sample: 
+        http://localhost:5000/getCountryByCode/IR
+    ```
+    
+* Create country
+
+    ```
+    POST: 
+        http://[server-address]:[port-number]/createCountry
+    Sample: 
+        http://localhost:5000/createCountry
+    
+    Body:
+    {
+        "name": "Iran",
+        "code": "IR",
+        "phone_code": "+98"
+    }
+    ```
