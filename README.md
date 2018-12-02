@@ -2,11 +2,18 @@
 Sample restful api
 
 # Installation
-* Clone.
+* Clone
+
 ```git clone https://github.com/mehranhamedani/SampleRestfulAPI_Node.js.git```
-* Go to repo directory.
+
+* Go to repo directory
+
 ```cd SampleRestfulAPI_Node```
-* Run npm install.
+
+* Run npm install
+
 ```npm install```
-* And then run npm start.
+
+* And then run npm start
+
 ```npm start```
