@@ -1,4 +1,4 @@
-# SampleRestfulAPI(Node.js)
+# Sample Restful API(Node.js)
 Sample restful api
 
 # Installation
