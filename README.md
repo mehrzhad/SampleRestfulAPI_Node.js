@@ -2,6 +2,10 @@
 Sample restful api
 
 # Installation
+* Install Node.js
+
+    https://nodejs.org/
+
 * Clone
 
     ```git clone https://github.com/mehranhamedani/SampleRestfulAPI_Node.js.git```
