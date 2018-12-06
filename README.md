@@ -12,7 +12,7 @@ Sample restful api
 
 * Go to repo directory
 
-    ```cd SampleRestfulAPI_Node```
+    ```cd SampleRestfulAPI_Node.js```
 
 * Run npm install
 
